@@ -13,4 +13,5 @@ Focado no desenvolvimento de sistemas robustos, seguros e eficientes, venho apri
 * **Automação de Vendas:** Sistema voltado para o setor de distribuição de bebidas.
 
 ---
-📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/tiago-quaresma-4284741a3/)
+---
+📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/tiago-santos-quaresma-4284741a3/)
