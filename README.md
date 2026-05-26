@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Tiago Quaresma! 👋
 
-<!--
-**quaresmatiago/quaresmatiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focado no desenvolvimento de sistemas robustos, seguros e eficientes, venho aprimorando minhas habilidades na criação de APIs e arquitetura back-end, além de estudar continuamente práticas de segurança da informação e integração com IA.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias & Ferramentas
+* **Linguagens:** Java, C, PHP, JavaScript (JSX)
+* **Frameworks & Libs:** Spring Boot, Spring AI (Integração com LLMs), React, Bootstrap
+* **Banco de Dados:** MongoDB, SQL
+* **Ambiente & Ferramentas:** Linux (Ubuntu), Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projetos em Destaque
+* **Start Help:** Sistema de assistência de emergência integrado com React e Spring Boot (MongoDB).
+* **Automação de Vendas:** Sistema voltado para o setor de distribuição de bebidas.
+
+---
+📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/tiago-quaresma-4284741a3/)
