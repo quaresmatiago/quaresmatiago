@@ -1,6 +1,6 @@
 # Olá, eu sou o Tiago Quaresma! 👋
 
-Desenvolvedor focado em criar sistemas robustos, seguros e escaláveis. Atualmente aprofundo meus conhecimentos em **Arquitetura Back-End**, **Integração com IA**, **Cibersegurança** e **Computação em Nuvem** (Escola da Nuvem / AWS).
+Estudante de Desenvolvimento de Software focado em criar sistemas robustos, seguros e escaláveis. Atualmente aprofundo meus conhecimentos em Arquitetura Back-End, Integração com IA, Cibersegurança e Computação em Nuvem (Escola da Nuvem / AWS).
 
 ---
 
